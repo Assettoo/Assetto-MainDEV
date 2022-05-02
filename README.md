@@ -1,28 +1,28 @@
 # ASSETTO
 
 
-## What is ASSETTO ?
+## What is really is ASSETTO ?
 
-<Strong>ASSETTO</Strong> is a Decentralised DAPP Build on <Strong>NERVOUS NETWORK BLOCKCHAIN</Strong> to STORE AND RETRIEVE Important and Confedential ASSET/DOC/FILE Storage Management Platform which is Super Easy to Use with an Eye Catchy UI and Awesome UX.
+<Strong>ASSETTO</Strong> is a Decentralised DAPP Build on <Strong>NERVOUS NETWORK BLOCKCHAIN</Strong> to <Strong>STORE AND RETRIEVE</Strong> 
+Important and Confedential ASSET/DOC/FILE Storage Management Platform which is Super Easy to Use with an Eye Catchy UI and Awesome UX.
 
 
 ## We are using different Tech Stack to achieve it.
 
- 1)We have Create a FRONTEND with the help of CREATE-REACT-APP(CRA) using hooks and web3context to optimise the performance and 
-   using pw-SDK from nervous network.
+ 1)We have Create a <Strong>FRONTEND</Strong> with the help of <Strong>CREATE-REACT-APP(CRA)</Strong> using Hooks and web3context to optimise the         performance and using <Strong>pw-SDK</Strong> from nervous network platform.
 
- 2)We have used Solidity to create SMART CONTRACT (OUR LOGIC) to store different important docs on the NERVOUS NETWORK BLOCKCHAIN.
+ 2)We have used Solidity to create <Strong>SMART CONTRACT</Strong> (FOR OUR LOGIC) to store different important docs on the <Strong>NERVOUS NETWORK       BLOCKCHAIN.</Strong>
 
  3)We have used Truffle framework with Ganache to test our DApp on local Enviornment.
 
- 4)We have used GODWOKEN L2 TESTNET to Deploy our DAPP and implemented Succesfull Transactions for our DApp.
+ 4)We have used <Strong>GODWOKEN L2 TESTNET</Strong> to Deploy our DAPP and implemented Succesfull Transactions for our DApp.
 
- 5)We have used IPFS API(BY INFURA) to Upload,Retrieve etc our Docs on the DECENTRALISED PLATFORM as AES(Advanced Encryption Standard) 
+ 5)We have used <Strong>IPFS API(BY INFURA)</Strong> to Upload,Retrieve etc our Docs on the DECENTRALISED PLATFORM as AES(Advanced Encryption Standard) 
    encryption is used to encrypt data before uploading to IPFS(Inter Planetary File System).
  
- 6)We have used used METAMASK & CONNECT WALLET for CKB transaction through our integration with pw-core(pw-SDK).
+ 6)We have used used <Strong>METAMASK & CONNECT WALLET</Strong> for CKB transaction through our integration with <Strong>pw-core(pw-SDK).</Strong>
  
- 7)We have used CKB testnetwork and Nervos Aggron Faucet to burn some CKB.
+ 7)We have used <Strong>CKB TestNetwork and Nervos Aggron Faucet</Strong> to burn some CKB.
 
  8)We have used NETIFY fro HOSTING purposes.
  
@@ -42,7 +42,7 @@
  
  6)Now after succesful transaction with a negligible fee you can use this HASH KEY in the form of a RECEIPT certificate for future use.
  
- 7)Later on we can CHECK THE AUTHENTICITY OF ANY DOC/FILE/ASSET etc ON CHAIN WITH JUST THE HASH KEY.
+ 7)Later on we can <Strong>CHECK FOR THE AUTHENTICITY OF ANY DOC/FILE/ASSET</Strong> etc ON CHAIN WITH JUST THE HASH KEY.
 
 
 
