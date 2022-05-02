@@ -1,8 +1,12 @@
-# ASSETTO is a Decentralised IMP DOC storage DAPP Build on Nervous Network Blockchain.
+# ASSETTO
 
 
+## What is ASSETTO ?
 
- ## We are using different Tech Stack to achieve it.
+<Strong>ASSETTO</Strong> is a Decentralised DAPP Build on <Strong>NERVOUS NETWORK BLOCKCHAIN</Strong> to STORE AND RETRIEVE Important and Confedential ASSET/DOC/FILE Storage Management Platform which is Super Easy to Use with an Eye Catchy UI and Awesome UX.
+
+
+## We are using different Tech Stack to achieve it.
 
  1)We have Create a FRONTEND with the help of CREATE-REACT-APP(CRA) using hooks and web3context to optimise the performance and 
    using pw-SDK from nervous network.
