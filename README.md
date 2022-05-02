@@ -46,7 +46,7 @@ Important and Confedential <Strong>ASSET/DOC/FILE Storage Management Platform</S
  
  4)Connect your Web3 Wallet with application <Strong>(METAMASK,WALLETCONNECT OPTIONS)-->Connect to your NERVOUS NETWORK WALLET.</Strong> 
  
- 5)Now you can <Strong>UPLOAD,RETRIEVE,CREATE,STORE etc any imp Document/File/Image etc on the <Strong>NERVOUS NETWORK BLOCKCHAIN with a HASH KEY</Strong>
+ 5)Now you can <Strong>UPLOAD,RETRIEVE,CREATE,STORE etc any imp Document/File/Image etc on the <Strong>NERVOUS NETWORK BLOCKCHAIN</Strong> with a HASH     KEY.
  
  6)Now after succesful transaction with a negligible fee you can use this <Strong>HASH KEY</Strong> in the form of a RECEIPT certificate for future use.
  
