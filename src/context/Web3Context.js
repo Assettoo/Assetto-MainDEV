@@ -48,7 +48,7 @@ const Web3ContextProvider = (props) => {
 		);
 		const contract = new web3.eth.Contract(
 			abi.abi,
-			"0xCe2d45dBAE8244a73BDb30bb9D3293134476F38e"
+			"0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266"
 		);
 		return { web3, contract };
 	}, [provider]);
