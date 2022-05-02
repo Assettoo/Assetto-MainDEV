@@ -1,6 +1,4 @@
-# ASSETTO is a Decentralised IMP DOC storage DAPP Build on Nervous Network Blockchain.
-
-
+# ASSETTO is a Decentralised IMP DOC storage DAPP Build on Nervous Network Blockchain
 
  We are using different Tech Stack to achieve it.
 
@@ -15,6 +13,3 @@
  5)We have IPFS(BY INFURA) to Upload,Retrieve etc our Docs on the DECENTRALISED PLATFORM.
 
  6)We have used NETIFY fro HOSTING purposes.
-
-
-
