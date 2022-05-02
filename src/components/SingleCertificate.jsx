@@ -31,7 +31,7 @@ const SingleCertificate = () => {
 				? Math.floor(new Date(getValues("ExpirationDate")).getTime() / 1000)
 				: 0;
 
-			await contract.methods
+			 await contract.methods
 				.generateCert(ipfsHash.toString(), expDate, ipfsHash.toString())
 				.send({ from: accountAddress })
 

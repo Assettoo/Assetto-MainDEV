@@ -67,7 +67,7 @@ const Web3ContextProvider = (props) => {
 	}, [web3Modal]);
 	const logoutOfWeb3Modal = useCallback(async () => {
 		setSignedInAddress("");
-		await web3Modal.clearCachedProvider();
+		web3Modal.clearCachedProvider();
 		window.location.reload();
 	}, [web3Modal]);
 
