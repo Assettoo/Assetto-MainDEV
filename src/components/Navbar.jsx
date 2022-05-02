@@ -7,11 +7,11 @@ const Navbar = () => {
 	return (
 		<nav>
 			<div className="bar">
-				<NavLink className="logo_img" id="logo" to="/home">
+				<NavLink className="logo_img" id="logo" to="/">
 				<img src="/nav.png" alt="assetto logo" />
 				</NavLink>
 				<div className="links">
-					<NavLink className="item" to="/home">
+					<NavLink className="item" to="/">
 						<h4>HOME</h4>
 					</NavLink>
 					<NavLink className="item" to="/about">

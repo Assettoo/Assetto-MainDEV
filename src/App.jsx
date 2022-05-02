@@ -36,7 +36,7 @@ const App = () => {
 																					</Suspense>
 																				}
 																			/>
-																			<Route exact path="/home" element={<Suspense fallback={<PageLoader />}>
+																			<Route exact path="/" element={<Suspense fallback={<PageLoader />}>
 																							<Home />
 																					</Suspense>
 																				}

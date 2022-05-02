@@ -6,13 +6,11 @@
 <Strong>ASSETTO</Strong> is a Decentralised DAPP Build on <Strong>NERVOUS NETWORK BLOCKCHAIN</Strong> to <Strong>STORE AND RETRIEVE</Strong>
 Important and Confedential <Strong>ASSET/DOC/FILE Storage Management Platform</Strong> which is Super Easy to Use with an Eye Catchy UI and Awesome UX.
 
-<
-
 ## We are using different Tech Stack to achieve it
 
- 1)We have Create a <Strong>FRONTEND</Strong> with the help of <Strong>CREATE-REACT-APP(CRA)</Strong> using Hooks and web3context to optimise the         performance and using <Strong>pw-SDK</Strong> from nervous network platform.
+ 1)We have Create a <Strong>FRONTEND</Strong> with the help of <Strong>CREATE-REACT-APP(CRA)</Strong> using Hooks and web3context to optimise the performance and using <Strong>pw-SDK</Strong> from nervous network platform.
 
- 2)We have used Solidity to create <Strong>SMART CONTRACT</Strong> (FOR OUR LOGIC) to store different important docs on the <Strong>NERVOUS NETWORK       BLOCKCHAIN.</Strong>
+ 2)We have used Solidity to create <Strong>SMART CONTRACT</Strong> (FOR OUR LOGIC) to store different important docs on the <Strong>NERVOUS NETWORK BLOCKCHAIN.</Strong>
 
  3)We have used <Strong>Truffle framework with Ganache</Strong> to test our DApp on local Enviornment.
 

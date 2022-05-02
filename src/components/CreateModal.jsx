@@ -51,7 +51,7 @@ const Modal = ({ modalData: { mode, data, receipt }, setModalData }) => {
 				<div className="content">
 					<div className="success">
 						<h3>
-							Success! Certificate Created with encryption key : {data?.certkey}{" "}
+							Success! Receipt Certificate Created with Encrypted Hash Key : {data?.certkey}{" "}
 							<br />
 							<button onClick={createReceipt}>Download a Receipt</button>
 						</h3>
@@ -84,7 +84,7 @@ const Loading = () => {
 			<div className="loading inner">
 				<img src={Loader} alt="loading" />
 				<br />
-				<h3>Processing Transaction! Do not close this tab.</h3>
+				<h3>Processing Transaction! Please Do not close this tab.</h3>
 			</div>
 		</div>
 	);
