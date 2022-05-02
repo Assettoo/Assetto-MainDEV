@@ -24,7 +24,7 @@ const providerOptions = {
 		package: WalletConnectProvider,
 		options: {
 			rpc: {
-				44787: "https://alfajores-forno.celo-testnet.org/",
+				868455272153094: " https://godwoken-testnet-web3-v1-rpc.ckbapp.dev/",
 			},
 		},
 	},
@@ -44,11 +44,11 @@ const Web3ContextProvider = (props) => {
 
 	const { web3, contract } = useMemo(() => {
 		const web3 = new Web3(
-			provider || "https://alfajores-forno.celo-testnet.org/"
+			provider || "https://godwoken-testnet-web3-v1-rpc.ckbapp.dev/"
 		);
 		const contract = new web3.eth.Contract(
 			abi.abi,
-			"0x2D031B84bd6cF242619Bd52542dDbCcb8556b90e"
+			"0xCe2d45dBAE8244a73BDb30bb9D3293134476F38e"
 		);
 		return { web3, contract };
 	}, [provider]);
@@ -110,3 +110,7 @@ const Web3ContextProvider = (props) => {
 
 // export default Web3ContextProvider;
 export { Web3Context, Web3ContextProvider as default };
+
+
+
+// https://626face37b18fe0f65a8ed2f--chimerical-stardust-70ccd0.netlify.app/verify/?ipfsHash=${ipfsHash}&certkey=${certkey}
